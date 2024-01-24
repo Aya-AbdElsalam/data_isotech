@@ -278,7 +278,7 @@
       "id": 1,
       "title": "iPad 10th Generation",
       "price": "260.00",
-
+      "qty": 1,
       "categorie": "Mobile",
       "color": [{
           "color": "blue",
@@ -291,9 +291,11 @@
       ]
     },
     {
+
       "id": 2,
       "title": "Galaxy Note20 Ultra 5G",
       "price": "380.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -305,6 +307,7 @@
       "id": 3,
       "title": "Sony Xperia 1 III Dual-SIM",
       "price": "250.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -316,6 +319,7 @@
       "id": 4,
       "title": "iPhone 15 Pro Max",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -336,6 +340,7 @@
       "id": 5,
       "title": "Samsung Galaxy S21 5G",
       "price": "230.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -347,6 +352,7 @@
       "id": 6,
       "title": "Realme C31, 3GB RAM, 32GB ROM - Green",
       "price": "260.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -363,6 +369,7 @@
       "id": 7,
       "title": "Samsung Galaxy A04e Dual SIM Smartphone - 3GB RAM, 64GB Storage, LTE, Black - 1 year Warranty",
       "price": "380.00",
+      "qty": 1,
 
       "categorie": "Mobile",
       "color": [{
@@ -374,6 +381,7 @@
       "id": 8,
       "title": "Wiwu SW02 Smart Watch",
       "price": "260.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -390,6 +398,7 @@
       "id": 9,
       "title": "WiWU Smart Watch SW01 S9 Wireless Bluetooth Watch Heart rate fitness smart watc",
       "price": "380.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -406,6 +415,7 @@
       "id": 10,
       "title": "WiWU SW01 Ultra Bluetooth Full Touch Screen Smart Watches Compatible with iPhone Android",
       "price": "250.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -417,6 +427,7 @@
       "id": 11,
       "title": "WiWU SW01 SE Smart Watch Activity Fitness Tracker Watch with Heart Rate Sleep Monitor Pedometer for All Devices",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -437,6 +448,7 @@
       "id": 12,
       "title": "WiWU SW01 Ultra mini Bluetooth Smart Watch with big screen High Resolution for Android IOS system",
       "price": "230.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -448,6 +460,7 @@
       "id": 13,
       "title": "WiWU Full Cover Lens Guard Anti-scratch Screen Protector for Apple Watch 44mm 45mm 49mm",
       "price": "260.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -464,6 +477,7 @@
       "id": 14,
       "title": "WiWU SW01 Smart Watch IP68 Waterproof Tracker Heart Rate Full Touch Screen Smartphone Long Lasting Battery",
       "price": "380.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -480,6 +494,7 @@
       "id": 15,
       "title": "WiWU Smart Watch SW01 Ultra Max Wireless bluetooth Smart Watch for phone big size screen",
       "price": "250.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -491,6 +506,7 @@
       "id": 16,
       "title": "Citizen Eco Watch",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -511,6 +527,7 @@
       "id": 17,
       "title": "WiWU Foldable 3 in 1 Wireless Charger",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Watch",
       "color": [{
@@ -522,6 +539,7 @@
       "id": 18,
       "title": "WiWU 5 in1 wireless charger",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Accessories",
       "color": [{
@@ -533,6 +551,7 @@
       "id": 19,
       "title": "Wi-W024 3 in 1 wireless charger",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Accessories",
       "color": [{
@@ -544,6 +563,7 @@
       "id": 20,
       "title": "Wi-W023 3 in 1 wireless charger",
       "price": "320.00",
+      "qty": 1,
 
       "color": [{
         "color": "silver",
@@ -555,6 +575,7 @@
       "id": 21,
       "title": "Super Fast Charging 33W PD+QC Wall charger Fast Quick Charger for Mobile Phone",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Accessories",
       "color": [{
@@ -566,6 +587,7 @@
       "id": 22,
       "title": "3 in1 wireless charger",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Accessories",
       "color": [{
@@ -577,6 +599,7 @@
       "id": 23,
       "title": "Wholesale charging cable nylon braided aluminum alloy usb cable mobile type C",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Accessories",
       "color": [{
@@ -588,6 +611,7 @@
       "id": 24,
       "title": "Video Conferencing Camera",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Camera",
       "color": [{
@@ -599,6 +623,7 @@
       "id": 25,
       "title": "Cam Security Camera",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Camera",
       "color": [{
@@ -610,6 +635,7 @@
       "id": 26,
       "title": "Nikon D7200 Camera",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Camera",
       "color": [{
@@ -621,6 +647,7 @@
       "id": 27,
       "title": "Samsung Gear Camera",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Camera",
       "color": [{
@@ -632,6 +659,7 @@
       "id": 28,
       "title": "Infrared CCTV Camera",
       "price": "320.00",
+      "qty": 1,
 
       "categorie": "Camera",
       "color": [{
