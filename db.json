@@ -1,4 +1,10 @@
 {
+  "signIn": [{
+    "id": "admin",
+    "name": "admin",
+    "pass": "admin",
+    "email": "admin@admin.com"
+  }],
   "feedback": [{
       "id": 0,
       "date": "September 14, 2024",
