@@ -1,5 +1,5 @@
-**This file contains information about...**
-## Admin login information 👉  /signIn 1x 
+## This file contains information about
+### Admin login information 👉  /signIn 1x 
 **OutPut**
 <br/>
 ```
@@ -12,7 +12,7 @@
   }
 ]
 ```
-## Product reviews 👉 
+### Product reviews 👉  /feedback 6x 
 **OutPut**
 ```
 [
@@ -24,9 +24,10 @@
     "user": "...",
     "comment": "...",
     "idUser": ".."
-  },...]
+  },...
+]
 ```
-## Information about the project team 👉 
+### Information about the project team 👉  /team 4x 
 **OutPut**
 ```
 [
@@ -34,11 +35,12 @@
     "id": "...",
     "name": "..",
     "jopTitle": "...",
-    "age": ".."
+    "age": "..",
+    "img": "..."
   },...
 ]
 ```
-## Product categories 👉 
+### Product categories 👉  /categories 4x 
 **OutPut**
 ```
 [
@@ -48,7 +50,7 @@
   },...
 ]
 ```
-## Brands 👉 
+### Brands 👉  /Brands 6x 
 **OutPut**
 ```
 [
@@ -58,7 +60,7 @@
   },..
 ]
 ```
-## Trending products 👉 
+### Trending products 👉  /trandingProducts 6x 
 **OutPut**
 ```
 [
@@ -82,7 +84,7 @@
   },...
 ]
 ```
-## Trending products this week 👉 
+### Trending products this week 👉  /TrendingThisWeek 10x 
 **OutPut**
 ```
 [
@@ -106,7 +108,7 @@
   },...
 ]
 ```
-## Blogs 👉 
+### Blogs 👉  /Blogs 5x 
 **OutPut**
 ```
 [
@@ -120,7 +122,7 @@
   },...
 ]
 ```
-## Products 👉 
+### Products 👉  /Products 28x 
 **OutPut**
 ```
 [
@@ -144,7 +146,7 @@
   },...
 ]
 ```
-## Mails 👉 
+### Mail 👉  /mail 4x 
 **OutPut**
 ```
 [
@@ -159,7 +161,7 @@
   },...
 ]
 ```
-## Orders 👉 
+### Orders 👉  /orders 10x 
 **OutPut**
 ```
 [
@@ -176,7 +178,7 @@
   },
 ]
 ```
-## Sales Statistics 👉 /barChart 4x
+### Sales Statistics 👉 /barChart 4x
 **OutPut**
 ```
  {
@@ -192,8 +194,40 @@
   },
 ]
 ```
-
-/sunburstChart 4x
-/barVertical 7x
-/orderActivity 7x
-/users
+### Sales By Category 👉 /pieChart 4x
+**OutPut**
+```
+[
+  {
+    "id": "...",
+    "label": "...",
+    "value": ...,
+    "color": "..."
+  },...
+]
+```
+### Order Activity 👉 /orderActivity 7x 
+**OutPut**
+```
+[
+  {
+    "id": "...",
+    "activity": "...",
+    "state": "...",
+    "date": "..."
+  },
+]
+```
+### Top users 👉 /users 6x 
+**OutPut**
+```
+[
+  {
+    "id": ...,
+    "Name": "...",
+    "phone": "...",
+    "email": "...",
+    "country": "...",
+    "TotalBuy": "..."
+  },...
+]
