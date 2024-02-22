@@ -1,5 +1,5 @@
 **This file contains information about...**
-## Admin login information
+## Admin login information 👉  /signIn 1x 
 **OutPut**
 <br/>
 ```
@@ -12,7 +12,7 @@
   }
 ]
 ```
-## Product reviews
+## Product reviews 👉 
 **OutPut**
 ```
 [
@@ -26,7 +26,7 @@
     "idUser": ".."
   },...]
 ```
-## Information about the project team
+## Information about the project team 👉 
 **OutPut**
 ```
 [
@@ -38,7 +38,7 @@
   },...
 ]
 ```
-## Product categories
+## Product categories 👉 
 **OutPut**
 ```
 [
@@ -48,7 +48,7 @@
   },...
 ]
 ```
-## Brands
+## Brands 👉 
 **OutPut**
 ```
 [
@@ -58,7 +58,7 @@
   },..
 ]
 ```
-## Trending products
+## Trending products 👉 
 **OutPut**
 ```
 [
@@ -82,7 +82,7 @@
   },...
 ]
 ```
-## Trending products this week
+## Trending products this week 👉 
 **OutPut**
 ```
 [
@@ -106,7 +106,7 @@
   },...
 ]
 ```
-## Blogs
+## Blogs 👉 
 **OutPut**
 ```
 [
@@ -120,7 +120,7 @@
   },...
 ]
 ```
-## Products 
+## Products 👉 
 **OutPut**
 ```
 [
@@ -144,7 +144,7 @@
   },...
 ]
 ```
-## Mails
+## Mails 👉 
 **OutPut**
 ```
 [
@@ -159,7 +159,7 @@
   },...
 ]
 ```
-## Orders
+## Orders 👉 
 **OutPut**
 ```
 [
@@ -176,7 +176,23 @@
   },
 ]
 ```
-/barChart 4x
+## Sales Statistics 👉 /barChart 4x
+**OutPut**
+```
+ {
+    "country": "...",
+    "Order": ...,
+    "Order Color": "...",
+    "Pending": "...",
+    "Pending Color": "...",
+    "Cancelled": "...",
+    " Cancelled Color": "...",
+    " Delivered": ...,
+    " Delivered Color": "..."
+  },
+]
+```
+
 /sunburstChart 4x
 /barVertical 7x
 /orderActivity 7x
